@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1720028931 source:c:\users\admin\code block c++\gamedoanso\guessinggame.cpp
+	"GuessingGame.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1683646714 c:\users\admin\code block c++\gamedoanso\guessinggame.h
+	<vector>
+	<string>
+	"Player.h"
+
+1684273898 c:\users\admin\code block c++\gamedoanso\player.h
+	<string>
+
+1720028763 source:c:\users\admin\code block c++\gamedoanso\main.cpp
+	<iostream>
+	"Player.h"
+	"GuessingGame.h"
+	"Game.h"
+
+1683646714 c:\users\admin\code block c++\gamedoanso\game.h
+	<vector>
+	"Player.h"
+	"GuessingGame.h"
+
+1683646714 source:c:\users\admin\code block c++\gamedoanso\player.cpp
+	"Player.h"
+
+1720029190 source:c:\users\admin\code block c++\gamedoanso\game.cpp
+	"Game.h"
+	<iostream>
+
